@@ -1,0 +1,6 @@
+{
+  "name": "MediSpa Solutions",
+  "description": "A luxury medical spa and aesthetics website featuring advanced injectables, laser technology, RF microneedling, and personalized wellness care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
